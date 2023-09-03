@@ -1,0 +1,35 @@
+[
+  {
+    "Ticket_id": "T0001",
+    "title": "Failed System named GG",
+    "created_by": "Mohan Ganesh",
+    "assigned_to": "Amit Shendge",
+    "status": "Open",
+    "mode": "Email",
+    "created_dt": "09-03-2-23 12:31 PM",
+    "due_dt": "09-03-2-23 12:31 PM",
+    "is_read": false
+  },
+  {
+    "Ticket_id": "T0002",
+    "title": "Failed System Bad Factor in Signal",
+    "created_by": "Ramesh Ganesh",
+    "assigned_to": "Amit Shendge",
+    "status": "In Progress",
+    "mode": "Form",
+    "created_dt": "09-03-2-23 12:31 PM",
+    "due_dt": "09-03-2-23 12:31 PM",
+    "is_read": false
+  },
+  {
+    "Ticket_id": "T0003",
+    "title": "Not working system correct sooner",
+    "created_by": "Ajit mohan",
+    "assigned_to": "Vivek",
+    "status": "Closed",
+    "mode": "SMS",
+    "created_dt": "09-03-2-23 12:31 PM",
+    "due_dt": "09-03-2-23 12:31 PM",
+    "is_read": false
+  }
+]
